@@ -1,5 +1,9 @@
 Новая строка
 Другая строка
 
+<<<<<<< HEAD
 Hello, git!
 Hello, git rebase!
+=======
+Hello, world!
+>>>>>>> Adding new line feature
